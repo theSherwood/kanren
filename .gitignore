@@ -8,6 +8,8 @@ dist/
 !*/
 !*.*
 
+!LICENSE
+
 # normal ignores:
 *.exe
 nimcache

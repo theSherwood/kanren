@@ -1,6 +1,6 @@
 # kanren
 
-An implemenation of minikanren plus some arithmetic-related kanren stuff. Very much inspired by [this js implementatio](https://github.com/shd101wyy/logic.js). This lib relies on my [dynamic_value lib](https://github.com/theSherwood/dynamic_value) for the dynamic value that the various kanren operators operate on. If any kanren fans read this code, I apologize for getting some of the naming conventions wrong.
+An implemenation of minikanren plus some arithmetic-related kanren stuff. Very much inspired by [this js implementation](https://github.com/shd101wyy/logic.js). This lib relies on my [dynamic_value lib](https://github.com/theSherwood/dynamic_value) for the dynamic value that the various kanren operators operate on. If any kanren fans read this code, I apologize for getting some of the naming conventions wrong.
 
 **Disclaimer**: This was written using the Nimskull compiler, which has not reached a stable version and, as of the time of this writing, continues to see rapid changes. There are already several differences between the Nimskull and Nim compilers. As such, if you wish to use any of this code... good luck!
 
